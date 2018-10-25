@@ -20,6 +20,6 @@ class OciCli < Formula
   end
 
   test do
-    assert_match "Oracle Cloud Infrastructure", shell_output("#{bin}/oci help")
+    system "#{bin}/oci"
   end
 end
