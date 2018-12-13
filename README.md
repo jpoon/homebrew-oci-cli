@@ -8,9 +8,9 @@
 $ brew install jpoon/homebrew-oci-cli/oci-cli
 ```
 
-## Development
+## Develop
 
-### Updating Formula
+**Updating Formula:**
 
 1. Update software links
 
