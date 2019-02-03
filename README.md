@@ -5,13 +5,12 @@
 ## Install
 
 ```bash
-$ brew tap jpoon/homebrew-oci-cli
-$ brew install oci-cli
+$ brew install jpoon/homebrew-oci-cli/oci-cli
 ```
 
-## Development
+## Develop
 
-### Updating Formula
+**Updating Formula:**
 
 1. Update software links
 
