@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-$ brew install jpoon/homebrew-oci-cli/oci-cli
+$ brew install philchung/homebrew-oci-cli/oci-cli
 ```
 
 ## Develop
