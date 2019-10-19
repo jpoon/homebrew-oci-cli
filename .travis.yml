@@ -1,1 +1,7 @@
 os: osx
+
+branches:
+  only:
+  - master
+
+script: brew install jpoon/homebrew-oci-cli/oci-cli
