@@ -1,5 +1,7 @@
 os: osx
 
+language: minimal
+
 branches:
   only:
   - master
