@@ -4,4 +4,9 @@ branches:
   only:
   - master
 
-script: brew install jpoon/homebrew-oci-cli/oci-cli
+install:
+  - brew install jpoon/homebrew-oci-cli/oci-cli
+
+test:
+  - brew test oci-cli
+  - brew audit --strict --online oci-cli

@@ -1,4 +1,4 @@
-# homebrew-oci-cli
+# homebrew-oci-cli [![Build Status](https://travis-ci.org/jpoon/homebrew-oci-cli.svg?branch=master)](https://travis-ci.org/jpoon/homebrew-oci-cli)
 
 *Unofficial* [Homebrew](https://brew.sh/) formula for [Oracle Cloud Infrastructure (OCI) CLI](https://github.com/oracle/oci-cli).
 
