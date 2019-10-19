@@ -9,4 +9,3 @@ install:
 
 test:
   - brew test oci-cli
-  - brew audit --strict --online oci-cli
