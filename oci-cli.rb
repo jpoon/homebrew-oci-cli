@@ -3,8 +3,8 @@ class OciCli < Formula
 
   desc "Oracle Cloud Infrastructure CLI"
   homepage "https://docs.cloud.oracle.com/iaas/Content/API/Concepts/cliconcepts.htm"
-  url "https://github.com/oracle/oci-cli/archive/v2.6.11.tar.gz"
-  sha256 "4b3d20ff47b51593a4849625b9e4e1d86ace316548ee0a4abb06653b16bda226"
+  url "https://github.com/oracle/oci-cli/archive/v2.6.12.tar.gz"
+  sha256 "4bfedbaaea85a9200437209c8949b0dd3ac14c22c4fd137858e90e01437e6a01"
   head "https://github.com/oracle/oci-cli.git"
 
   depends_on "python"
