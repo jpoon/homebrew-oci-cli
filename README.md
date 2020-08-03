@@ -1,6 +1,4 @@
-> Update: Oracle has released an official formula. Please use https://formulae.brew.sh/formula/oci-cli.
-
----
+:warning: With Oracle release an official formula (https://formulae.brew.sh/formula/oci-cli), this project is deprecated. Please migrate to using the official formula.  
 
 
 # homebrew-oci-cli
