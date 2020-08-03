@@ -1,5 +1,12 @@
-:warning: Project is deprecated. Please migrate to using Oracle's official OCI-CLI formula: https://formulae.brew.sh/formula/oci-cli. :warning:
+:warning: :warning: :warning: <br /> 
+***Please migrate to using Oracle's official OCI-CLI formula: https://formulae.brew.sh/formula/oci-cli:***
+```
+brew update && brew install oci-cli
+```
+***This project is deprecated.*** <br /> 
+:warning: :warning: :warning: 
 
+<br /> 
 
 # homebrew-oci-cli
 
