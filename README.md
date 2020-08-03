@@ -1,4 +1,4 @@
-**:warning: With Oracle releasing an official formula, this project is deprecated. Please migrate to using the [official formula](https://formulae.brew.sh/formula/oci-cli). :warning:**
+:warning: Project is deprecated. Please migrate to using Oracle's official OCI-CLI formula: https://formulae.brew.sh/formula/oci-cli. :warning:
 
 
 # homebrew-oci-cli
