@@ -3,7 +3,6 @@ This project is deprecated. Please migrate to using Oracle's official OCI-CLI fo
 ```
 brew update && brew install oci-cli
 ```
-<br /> 
 :warning:
 
 <br /> 
