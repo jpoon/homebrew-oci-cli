@@ -4,6 +4,8 @@ brew update && brew install oci-cli
 ```
 
 
+-----
+
 # homebrew-oci-cli
 
 *Unofficial* [Homebrew](https://brew.sh/) formula for [Oracle Cloud Infrastructure (OCI) CLI](https://github.com/oracle/oci-cli).
